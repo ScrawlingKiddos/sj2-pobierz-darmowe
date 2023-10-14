@@ -4,6 +4,19 @@ body {
     background-size: cover;
 
     color: white;
+    margin: 100px;
+}
+
+p {
+    background-color: black;
+}
+
+b {
+    background-color: red;
+}
+
+i {
+    background-color: darkred;
 }
 
 .header {
